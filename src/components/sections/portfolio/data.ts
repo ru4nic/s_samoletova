@@ -84,7 +84,7 @@ export const services: Services[] = [
   {
     title: 'Репортаж/Концертная съемка',
     type: 'reportage',
-    price: 2000,
+    price: 2500,
     img: concertImg,
     id: 332,
   },
