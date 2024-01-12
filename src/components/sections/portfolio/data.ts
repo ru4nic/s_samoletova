@@ -77,7 +77,7 @@ export const services: Services[] = [
   {
     title: 'Индивидуальная фотосессия',
     type: 'portret',
-    price: 1500,
+    price: 2000,
     img: individImg,
     id: 331,
   },
@@ -92,7 +92,7 @@ export const services: Services[] = [
     title: 'Семейная/Детская фотосессия',
     type: 'family',
     img: familyImg,
-    price: 2500,
+    price: 3000,
     id: 333,
   },
 ];
